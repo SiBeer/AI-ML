@@ -1,3 +1,3 @@
-# MNI-INM2
+# AI-ML
 
-Lorem ipsum...
+Some functions for AI-ML
